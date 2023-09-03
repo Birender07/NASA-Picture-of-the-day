@@ -1,0 +1,12 @@
+#main {
+  background-color: black;
+  max-height: 150vh;
+  color: white;
+  padding: 20px;
+}
+img {
+  max-height: 60vh;
+}
+li {
+  list-style-type: none;
+}
